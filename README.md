@@ -2,6 +2,14 @@
 
 front-end do projeto da galeria
 
+**Telas**
+
+![Login](./doc/login.png)
+![Cadastro](./doc/cadastro.png)
+![Listar Imagens](./doc/imageList.png)
+![Cadastrar Imagem](./doc/imageRegister.png)
+
+
 **Objetivo**
 
 Desenvolver uma aplicação para cadastro e galeria de imagens. Esse projeto é apenas o Front-end, que expõe uma API REST. Back-end: https://github.com/rafaellevissa/galeria 
